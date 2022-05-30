@@ -1,0 +1,26 @@
+id: I4E60DA24
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-31T05:00:28.676911'
+last_modified: '2022-05-31T05:00:28.676941'
+parser: null
+source_metadata:
+  title: Lama Rigdzin Nyima Series
+  language: en
+  description: Texts by Lama Rigdzin Nyima (rig 'dzin nyi ma, b. 1931), a tertön from
+    Golok.
+  volume:
+    f6619:
+      title: The Final Testament of Yukhok Chatralwa as Transmitted to Lama Rigdzin
+        Nyima
+      base_file: f6619.txt
+      order: 1
+      parent: Testament
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
